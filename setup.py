@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="MartinCesar",
-    version='0.1',
+    version='0.2',
     packages=['martincesar'],
     description="",
     long_description=open('Readme.md',encoding='utf-8').read(),
