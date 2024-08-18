@@ -1,2 +1,5 @@
-Esta solo es una prueva de como importar y exportar una libreria para una tarea.
-No tomarselo encerio
+# Example Package
+
+This is a simple example package. You can use
+[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
