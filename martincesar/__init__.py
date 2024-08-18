@@ -1,1 +1,1 @@
-from operaciones import sumanumeros
+from .operaciones import sumanumeros
